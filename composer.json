@@ -45,5 +45,12 @@
         "psr-0": {
             "MX\\WidgetComponent\\": "src"
         }
+    },
+    "repositories":
+[
+    {
+        "type": "vcs",
+        "url": "https://https://github.com/FSLeadDev/mx-widgetcomponent"
     }
+],
 }
